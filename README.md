@@ -1,1 +1,1 @@
-Even Odd program using java
+Even and Odd program using java
